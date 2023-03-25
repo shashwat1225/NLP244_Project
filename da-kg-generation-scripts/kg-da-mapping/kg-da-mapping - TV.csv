@@ -1,0 +1,10 @@
+DA,domain,min,max,mandatory slots
+inform,tv,3,8,name
+confirm,tv,2,3,name
+give_opinion,tv,3,4,"name, rating"
+recommend,tv,2,3,name
+request,tv,1,2,specifier
+request_attribute,tv,1,1,
+request_explanation,tv,2,3,rating
+suggest,tv,2,3,name
+verify_attribute,tv,3,4,"name, rating"
