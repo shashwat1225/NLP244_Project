@@ -2,7 +2,7 @@
 
 Step 1:
 
-Run the KG Creation Scripts
+Run the generating_da_triples.py script in the KG Creation folder
 
 Step 2: 
 
